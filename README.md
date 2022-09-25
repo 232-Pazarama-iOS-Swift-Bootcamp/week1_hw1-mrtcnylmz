@@ -1,5 +1,5 @@
-# week1_work1
-ilk ödev
+# Poke & You
+![Ekran Resmi 2022-09-26 00 10 53](https://user-images.githubusercontent.com/49480936/192165919-403713f7-2e2e-4738-bb47-4a1003d9f46c.png)
 
 # Pazarama iOS Bootcamp – Hafta 1 – Ödev  
 Bir konsept üzerine kurulu pazar yeri uygulaması yapacağız. Bu konsept bir film, anime, video
